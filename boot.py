@@ -1,1 +1,1 @@
-server =""
+server ="http://localhost:1337"
